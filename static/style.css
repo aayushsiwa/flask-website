@@ -11,6 +11,7 @@ h1{
     width: 100%;
     height: 360px;
     object-fit: cover;
+    margin-bottom:16px;
 }
 /* h2{
     font-size: 32px;
@@ -24,4 +25,8 @@ h1{
 .container{
     max-width: 720px;
     margin: 0 auto;
+}
+#people{
+    height: 320px;
+    border-radius: 4px;
 }
